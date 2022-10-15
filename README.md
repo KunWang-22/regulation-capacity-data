@@ -6,3 +6,4 @@ There are three types of buildings, i.e., office buildings, commercial buildings
 
 All the buildings are numbered from 100 to 590 at intervals of 10, thus there are 50 buildings for each building tpye.
 
+If you have any questions, please feel free to contact me (e-mail: zhenyi.wang@connect.um.edu.mo)
